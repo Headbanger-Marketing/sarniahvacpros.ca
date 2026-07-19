@@ -10,8 +10,8 @@ import os, re, html
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
 # ------------------------------------------------------------------ CONFIG
-SITE_NAME   = "Sarnia Heating & Cooling"
-SHORT_NAME  = "Sarnia Heating &amp; Cooling"
+SITE_NAME   = "Sarnia HVAC Pros"
+SHORT_NAME  = "Sarnia HVAC Pros"
 DOMAIN      = "https://sarniahvacpros.ca"
 CITY        = "Sarnia"
 REGION      = "Ontario"
@@ -23,7 +23,7 @@ EMAIL         = "contact@sarniahvacpros.ca"
 ADDR_STREET   = "200 Christina St N"
 ADDR_LOCALITY = "Sarnia"
 ADDR_REGION   = "ON"
-ADDR_POSTAL   = "N7G 1P7"
+ADDR_POSTAL   = "N7T 5V4"
 # -----------------------------------------------------------------------
 
 # Canonical service-area list
@@ -93,11 +93,7 @@ LOGO_MARK = '''<svg class="brand__mark" viewBox="0 0 48 48" fill="none" xmlns="h
 def brand(footer=False):
     cls = "brand footer-brand" if footer else "brand"
     return f'''<a class="{cls}" href="/" aria-label="{SITE_NAME} home">
-      {LOGO_MARK}
-      <span class="brand__text">
-        <span class="brand__name">{CITY}</span>
-        <span class="brand__tag">Heating &amp; Cooling</span>
-      </span>
+      <img class="brand__logo" src="/assets/img/logo.png" alt="{SITE_NAME}" loading="eager" decoding="async">
     </a>'''
 
 # ------------------------------------------------------------------ NAV / SERVICES DATA
@@ -278,7 +274,7 @@ def head(title, desc, path, schema_blocks=None, og_type="website", robots="index
 <meta name="description" content="{desc}">
 <link rel="canonical" href="{canonical}">
 <meta name="robots" content="{robots}">
-<meta name="theme-color" content="151515">
+<meta name="theme-color" content="#103050">
 <meta property="og:type" content="{og_type}">
 <meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:title" content="{title}">
