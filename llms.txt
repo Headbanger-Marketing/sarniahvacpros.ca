@@ -1,0 +1,26 @@
+# Sarnia HVAC Pros
+
+> Sarnia HVAC Pros is a local HVAC company serving Sarnia, Lambton County, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 337-2184  |  Email: contact@sarniahvacpros.ca  |  Website: https://sarniahvacpros.ca
+
+Service areas: Sarnia, Point Edward, Corunna, Petrolia, Forest, Wyoming
+
+## Key pages
+
+- [Home](https://sarniahvacpros.ca/): Sarnia HVAC Pros homepage with service overview and FAQ
+- [About](https://sarniahvacpros.ca/about/): About the company and service area
+- [Contact](https://sarniahvacpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://sarniahvacpros.ca/services/furnace-repair/): Furnace Installation & Repair in Sarnia, Ontario
+- [AC Installation & Repair](https://sarniahvacpros.ca/services/ac-repair/): AC Installation & Repair in Sarnia, Ontario
+- [Heat Pumps](https://sarniahvacpros.ca/services/heat-pump-repair-installation/): Heat Pumps in Sarnia, Ontario
+- [Duct Cleaning](https://sarniahvacpros.ca/services/duct-cleaning/): Duct Cleaning in Sarnia, Ontario
+- [Thermostats](https://sarniahvacpros.ca/services/thermostat-repair-replacement/): Thermostats in Sarnia, Ontario
+- [Ductless AC Installation](https://sarniahvacpros.ca/services/ductless-ac-installation/): Ductless AC Installation in Sarnia, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Sarnia are answered on the homepage.
